@@ -36,7 +36,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Official version of pdepend to be handled with Composer",
-            "time": "2014-05-21 09:48:10"
+            "time": "2014-08-20 15:10:00"
         },
         {
             "name": "symfony/config",
