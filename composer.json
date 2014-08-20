@@ -5,11 +5,15 @@
     "version": "2.0.0",
 
     "minimum-stability" : "stable",
-
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Deltachaos/pdepend.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "pdepend/pdepend": "dev-master",
-
         "symfony/dependency-injection": "@stable",
         "symfony/filesystem": "@stable",
         "symfony/config": "@stable"
